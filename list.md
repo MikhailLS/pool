@@ -6,7 +6,7 @@ t.you
 telegram.org
 telegram.com
 strava.com
-
+doubleclick.net
 
 
 
